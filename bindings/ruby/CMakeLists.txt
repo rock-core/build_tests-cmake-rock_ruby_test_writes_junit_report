@@ -1,0 +1,1 @@
+rock_add_ruby_package(rock_ruby_test_writes_junit_report)

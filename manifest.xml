@@ -1,0 +1,7 @@
+<package>
+  <description brief="Test for JUnit report export in rock_ruby_test">
+  </description>
+  <author>Sylvain Joyeux/sylvain.joyeux@tidewise.io</author>
+  <license>BSD</license>
+  <depend package="base/cmake" />
+</package>
